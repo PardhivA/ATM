@@ -123,6 +123,7 @@ class ATMMain{
  				 int i1 = input.nextInt();
  				 if(i1==1) Obj.slip();
 	    		  Obj.menu_select();
+	    		  
 	    		  int temp_11 = 0;
 	    		  temp_11 = input.nextInt();
 	    		  if(temp_11 == 1) {
